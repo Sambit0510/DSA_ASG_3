@@ -1,3 +1,5 @@
+#include"HeaderArray.h"
+
 void InsertItemAtLast(int A[], int n, int key){
     n++;
     A[n-1]=key;
